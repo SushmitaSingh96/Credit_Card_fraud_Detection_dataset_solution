@@ -3,5 +3,5 @@ Credit Card fraud detection is a dataset in Kaggle. Here is my solution for this
 I have used both undersampling and oversampling techniques to find the best solution. 
 The resampled data has been tested on 6 models namely:
 Logistic Regrression, K Neighbor Classifier, Decision Treee classifier, Gradient Boosting Classifier, Random Forest Classifier and Support Vector Classifier.
-Tomek and SMOTE is used for undersampling and oversasmpling respectively. 
+Tomek link and SMOTE is used for undersampling and oversasmpling respectively. 
 Conclusion: On both the forms of resampled data Random Forest Classifier performed the best for this dataset.  
